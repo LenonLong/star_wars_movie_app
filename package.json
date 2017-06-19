@@ -1,0 +1,14 @@
+{
+  "name": "star_wars_movie_app",
+  "version": "1.0.0",
+  "description": "A Basic Movie App For Star Wars Fans",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lenon Long",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
